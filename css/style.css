@@ -1,0 +1,18 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+.bg {
+    background-color: #eaeaea;
+}
+.contactus {
+    background-color: #2690d4;
+}
+.aboutus {
+    background-color: #333333;
+    color: black;
+}
+@media screen and (max-width: 576px) {
+    .cardtop {
+        margin: 4% !important;
+    }
+}
